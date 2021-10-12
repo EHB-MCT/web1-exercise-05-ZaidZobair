@@ -1,0 +1,39 @@
+.wrapper {
+    width: 920px;
+    margin: 0 auto;
+}
+
+.item {
+    position: relative;
+    float: left;
+}
+
+
+.een {
+    width: 100%;
+    margin-bottom: 50px;
+
+    position: relative;
+    float: left;
+}
+
+.twee {
+    position: relative;
+    float: left;
+
+}
+
+.WonderWomen {
+    margin-left: 20px;
+}
+
+h1{     
+    font-size: 24pt;
+    color: #147beb;
+    font-family: 'Teko', sans-serif;
+}
+p{
+    
+    font-size: 18pt;
+    font-family: 'Teko', sans-serif;
+}
